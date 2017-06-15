@@ -1,0 +1,2 @@
+mysql.dburl = root;
+mysql.db.password = root;
